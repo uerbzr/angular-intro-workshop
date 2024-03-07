@@ -11,4 +11,5 @@ import { RouterOutlet } from '@angular/router';
 export class AppComponent {
   title = 'counter';
   count = 0;
+  name = 'Nigel';
 }
